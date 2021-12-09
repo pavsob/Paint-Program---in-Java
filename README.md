@@ -2,6 +2,8 @@
 Recreation of the Microsoft's Paint application in Java
 
 ## Features
+Model–view–controller (MVC) software design pattern was used to recreate Microsoft's Paint application.  
+
 -can draw various shapes - by default- Line, after clicking buttons- Rectangle, Ellipse, Line, Star  
 -drawing is done by pressing and releasing the mouse button  
 -check box decides whether Rectangle and Ellipse will be filled  
